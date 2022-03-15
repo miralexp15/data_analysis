@@ -6,7 +6,6 @@
 
 ## Содержание
 
-- [Перечень основных Python библиотек и их версии (единый для всех проектов)](#bible);
 - [Проекты](#projects) (название, задачи, стек):
    1. [Исследование надёжности заёмщиков — анализ банковских данных](#projects);
    2. [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](#project_2);
@@ -23,27 +22,6 @@
 - [Проекты, не вошедшие в репозиторий](#other_projects) (название, стек, причина отсутствия).
 
 <br><hr style="border:2px solid gray"></hr><br>
-
-## <a name="bible"></a>Перечень основных Python библиотек и их версии
-
-- beautifulsoup4==4.8.0
-- matplotlib==3.1.0
-- nltk==3.4.1
-- numpy==1.18.3
-- pandas==0.25.1
-- plotly==4.1.0
-- psycopg2-binary==2.8.4
-- pymorphy2==0.8
-- pymorphy2-dicts==2.4.393442.3710985
-- pymystem3==0.2.0
-- regex==2020.4.4
-- scikit-learn==0.21.2
-- scipy==1.4.1
-- seaborn==0.9.0
-- sqlalchemy==1.3.11
-- statsmodels==0.10.1
-
-<br><hr style="border:1px solid gray"></hr><br>
 
 ## <a name="projects"></a>Проекты
 
